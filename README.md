@@ -32,11 +32,10 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_COMPANY_GITHUB_USERNAME&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_COMPANY_GITHUB_USERNAME&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_COMPANY_GITHUB_USERNAME&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=meghraj2004&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=meghraj2004&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghraj2004&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 🌐 Connect With Me:
