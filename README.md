@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Tech Stack:  
-🔹 **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap  
+🔹 **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap,Next.js
 ⚙️ **Backend:** Node.js, Express.js, Spring Boot  
 🗄️ **Databases:** MySQL, MongoDB  
 🌐 **Others:** Firebase, REST APIs, Git & GitHub, Android Development  
@@ -28,7 +28,7 @@
 ## 🏆 Key Achievements:  
 - 🥉 **2× Hackathon Winner** – Innovision Avinya Hackathon (2024 & 2025)  
 - 🎖️ **Smart India Hackathon Finalist**  
-- 📌 Built multiple projects: E-commerce platform, Disaster Response App, Reservation System, etc.  
+- 📌 Built multiple projects: Education-Path platform,Mess-Management system, E-commerce platform, Disaster Response App, Reservation System, etc.  
 
 ---
 
