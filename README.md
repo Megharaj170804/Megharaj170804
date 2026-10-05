@@ -39,20 +39,23 @@
 ## 📈 GitHub Stats
 
 <p align="left">
+  <!-- GitHub Stats -->
   <img
     width="48%"
     src="https://github-readme-stats-gold-tau-60.vercel.app/api?username=Megharaj170804&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&line_height=23"
     alt="Megharaj Dandgavhal's GitHub Stats"
   />
 
+  <!-- GitHub Streak -->
   <img
     width="48%"
-    src="https://streak-stats.demolab.com/?user=Megharaj170804&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200"
+    src="https://streak-stats.demolab.com/?user=Megharaj170804&theme=react&hide_border=false&timezone=Asia%2FKolkata&locale=en&date_format=M%20j%2C%20Y&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_width=495&card_height=195"
     alt="Megharaj Dandgavhal's GitHub Streak"
   />
 </p>
 
 <p align="left">
+  <!-- Top Languages -->
   <img
     width="48%"
     src="https://github-readme-stats-gold-tau-60.vercel.app/api/top-langs?username=Megharaj170804&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400"
