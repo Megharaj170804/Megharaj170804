@@ -1,81 +1,18 @@
-# 💼 About Me
+# 💫 About Me:
+💼 About Me<br>👋 Hello! I'm Meghraj Dandgavhal<br>💻 Software Development Intern @ Tekdi Technologies | Full-Stack Developer | Problem Solver<br>🚀 Passionate about building scalable web and mobile applications that solve real-world problems.<br>🎯 Currently working on React.js, Node.js, Firebase, Spring Boot, and API integrations.<br>📚 Always eager to learn and explore modern tools, frameworks, and industry best practices.<br><br>🛠️ Tech Stack<br>🔹 Frontend: HTML5, CSS3, JavaScript, React.js, Bootstrap, Next.js<br>⚙️ Backend: Node.js, Express.js, Spring Boot<br>🗄️ Databases: MySQL, MongoDB<br>🌐 Others: Firebase, REST APIs, Git & GitHub, Android Development<br><br>📌 Current Work<br>💼 Contributing to real-world projects at Tekdi Technologies.<br>📈 Writing clean, maintainable, and efficient code.<br>🤝 Collaborating with UI/UX and backend teams for feature delivery.<br>🐞 Debugging and troubleshooting to improve performance and scalability.<br>🏆 Key Achievements<br>🥉 2× Hackathon Winner – Innovision Avinya Hackathon (2024 & 2025)<br>🎖️ Smart India Hackathon Finalist<br>📌 Built multiple projects: Education-Path platform, Mess-Management System, E-commerce Platform, Disaster Response App, Reservation System, etc.
 
-## 👋 Hello! I'm **Meghraj Dandgavhal**
 
-### 💻 Software Development Intern @ Tekdi Technologies | Full-Stack Developer | Problem Solver
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Megharaj170804&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Megharaj170804&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Megharaj170804&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-🚀 **Passionate** about building **scalable web and mobile applications** that solve real-world problems.  
-🎯 Currently working on **React.js, Node.js, Firebase, Spring Boot, and API integrations**.  
-📚 Always eager to learn and explore modern tools, frameworks, and industry best practices.
-
----
-
-## 🛠️ Tech Stack
-
-🔹 **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap, Next.js  
-⚙️ **Backend:** Node.js, Express.js, Spring Boot  
-🗄️ **Databases:** MySQL, MongoDB  
-🌐 **Others:** Firebase, REST APIs, Git & GitHub, Android Development
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Megharaj170804&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Megharaj170804&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Current Work
-
-- 💼 Contributing to **real-world projects** at Tekdi Technologies.
-- 📈 Writing clean, maintainable, and efficient code.
-- 🤝 Collaborating with UI/UX and backend teams for feature delivery.
-- 🐞 Debugging and troubleshooting to improve performance and scalability.
-
----
-
-## 🏆 Key Achievements
-
-- 🥉 **2× Hackathon Winner** – Innovision Avinya Hackathon (2024 & 2025)
-- 🎖️ **Smart India Hackathon Finalist**
-- 📌 Built multiple projects: Education-Path platform, Mess-Management System, E-commerce Platform, Disaster Response App, Reservation System, etc.
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <!-- GitHub Stats -->
-  <img
-    width="48%"
-    src="https://github-readme-stats-gold-tau-60.vercel.app/api?username=Megharaj170804&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&line_height=23"
-    alt="Megharaj Dandgavhal's GitHub Stats"
-  />
-
-  <!-- GitHub Streak -->
-  <img
-    width="48%"
-    src="https://streak-stats.demolab.com/?user=Megharaj170804&theme=react&hide_border=false&timezone=Asia%2FKolkata&locale=en&date_format=M%20j%2C%20Y&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_width=495&card_height=195"
-    alt="Megharaj Dandgavhal's GitHub Streak"
-  />
-</p>
-
-<p align="left">
-  <!-- Top Languages -->
-  <img
-    width="48%"
-    src="https://github-readme-stats-gold-tau-60.vercel.app/api/top-langs?username=Megharaj170804&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400"
-    alt="Megharaj Dandgavhal's Top Languages"
-  />
-</p>
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MegharajDandgavhal)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:megharaj.dandgavhal@tekditechnologies.com)
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=megharaj170804&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-⭐ **Thanks for visiting my profile!**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
