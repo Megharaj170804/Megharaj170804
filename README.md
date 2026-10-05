@@ -154,7 +154,7 @@ currently_building: [React.js, Next.js, Node.js, Spring Boot, Firebase]
 <div align="center">
 
 <a href="https://github.com/Megharaj170804">
-  <img src="https://github-trophies.devomb.com/?username=Megharaj170804&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="profile/trophies.svg?v=2" alt="GitHub Trophies" />
 </a>
 
 </div>
