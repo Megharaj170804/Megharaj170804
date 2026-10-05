@@ -132,17 +132,17 @@ currently_building: [React.js, Next.js, Node.js, Spring Boot, Firebase]
   <table border="0">
     <tr>
       <td>
-        <img height="185" src="profile/stats.svg?v=700" alt="Megharaj's GitHub Stats" />
+        <img height="185" src="profile/stats.svg?v=800" alt="Megharaj's GitHub Stats" />
       </td>
       <td>
-        <img height="185" src="profile/top-langs.svg?v=700" alt="Top Languages" />
+        <img height="185" src="profile/top-langs.svg?v=800" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats Card -->
   <p>
-    <img src="profile/streak.svg?v=700" alt="GitHub Streak" />
+    <img src="profile/streak.svg?v=800" alt="GitHub Streak" />
   </p>
 
 </div>

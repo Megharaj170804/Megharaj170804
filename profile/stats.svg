@@ -29,12 +29,10 @@
       .stat { font-size:12px; }
     }
     .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
+      opacity: 1;
     }
     .rank-text {
       font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;
-      animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
       font-size: 14px;
