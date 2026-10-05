@@ -60,11 +60,12 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Replace "(last year)" with "(2026)" for current year accuracy
-          # And fix SVG opacity bug so stats are always visible on GitHub
+          # And fix SVG opacity bug and center rank letter so stats are always visible on GitHub
           if [ -f profile/stats.svg ]; then
             sed -i 's/(last year)/(2026)/g' profile/stats.svg
             sed -i 's/opacity: 0;/opacity: 1;/g' profile/stats.svg
             sed -i 's/animation: scaleInAnimation[^;]*;//g' profile/stats.svg
+            sed -i 's/x="-5" y="3"/x="-10" y="8"/g' profile/stats.svg
           fi
 
           git add profile/*.svg
