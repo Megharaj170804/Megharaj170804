@@ -59,6 +59,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          # Replace "(last year)" with "(2026)" for current year accuracy
+          if [ -f profile/stats.svg ]; then
+            sed -i 's/(last year)/(2026)/g' profile/stats.svg
+          fi
+
           git add profile/*.svg
 
           if git diff --cached --quiet; then
