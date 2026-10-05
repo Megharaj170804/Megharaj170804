@@ -56,7 +56,15 @@ jobs:
       # Generate Trophies
       - name: Generate Trophies
         run: |
-          curl -s "https://github-trophies.devomb.com/?username=Megharaj170804&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A,B,C" > profile/trophies.svg
+          TROPHY_URL="https://github-trophies.devomb.com/?username=Megharaj170804&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S,AAA,AA,A,B,C"
+          curl -s -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" "$TROPHY_URL" -o profile/trophies_temp.svg
+          if grep -q "<svg" profile/trophies_temp.svg && ! grep -q "Just a moment" profile/trophies_temp.svg && ! grep -q "DEPLOYMENT_DISABLED" profile/trophies_temp.svg; then
+            mv profile/trophies_temp.svg profile/trophies.svg
+            echo "Successfully generated profile/trophies.svg"
+          else
+            echo "Warning: Trophies service returned invalid SVG or was challenged. Keeping existing trophies.svg"
+            rm -f profile/trophies_temp.svg
+          fi
 
       # Commit generated SVG files
       - name: Commit generated stats
