@@ -145,11 +145,6 @@ currently_building: [React.js, Next.js, Node.js, Spring Boot, Firebase]
     <img src="https://streak-stats.demolab.com/?user=Megharaj170804&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub Streak" />
   </p>
 
-  <!-- Summary Card -->
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Megharaj170804&theme=tokyonight" alt="Profile Summary Details" />
-  </p>
-
 </div>
 
 ---
@@ -177,8 +172,8 @@ currently_building: [React.js, Next.js, Node.js, Spring Boot, Firebase]
   <a href="https://meghportfolio.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-meghportfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:megharaj.dandgavhal@tekditechnologies.com">
-    <img src="https://img.shields.io/badge/Email-tekditechnologies.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:megharajdandgavhal2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Megharaj170804">
     <img src="https://img.shields.io/badge/GitHub-Megharaj170804-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
