@@ -32,7 +32,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Megharaj170804&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&include_all_commits=false&count_private=true&line_height=23
+          options: username=Megharaj170804&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&line_height=23
           path: profile/stats.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
