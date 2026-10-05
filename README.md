@@ -132,17 +132,17 @@ currently_building: [React.js, Next.js, Node.js, Spring Boot, Firebase]
   <table border="0">
     <tr>
       <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api?username=Megharaj170804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Megharaj's GitHub Stats" />
+        <img height="185" src="profile/stats.svg" alt="Megharaj's GitHub Stats" />
       </td>
       <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megharaj170804&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+        <img height="185" src="profile/top-langs.svg" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats Card -->
   <p>
-    <img src="https://streak-stats.demolab.com/?user=Megharaj170804&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub Streak" />
+    <img src="profile/streak.svg" alt="GitHub Streak" />
   </p>
 
 </div>
