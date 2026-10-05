@@ -1,10 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Megharaj+Dandgavhal;Full-Stack+Developer;Software+Development+Intern+%40+Tekdi;Building+scalable+web+%26+mobile+apps" alt="Typing SVG" />
+# 👋 Hi there, I'm Megharaj Dandgavhal!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Megharaj170804&style=for-the-badge&color=61dafb&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Megharaj170804?style=for-the-badge&logo=github&color=61dafb)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Megharaj170804&query=$.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=61dafb)
+<a href="https://github.com/Megharaj170804">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&height=50&lines=Software+Engineer+%40+Tekdi+Technologies;Full-Stack+Developer+%7C+Problem+Solver;React.js+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;2%C3%97+Hackathon+Winner+%F0%9F%8F%86+%7C+SIH+Finalist" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Megharaj170804">
+    <img src="https://komarev.com/ghpvc/?username=Megharaj170804&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Megharaj170804?tab=followers">
+    <img src="https://img.shields.io/github/followers/Megharaj170804?style=for-the-badge&logo=github&color=38bdae&labelColor=1a1b27" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Megharaj170804?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-25-bf91f3?style=for-the-badge&logo=github&labelColor=1a1b27" alt="Public Repos" />
+  </a>
+  <a href="https://meghportfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-meghportfolio-ff79c6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Portfolio" />
+  </a>
+</p>
 
 </div>
 
@@ -12,68 +27,164 @@
 
 ## 💫 About Me
 
-- 💻 Software Development Intern @ **Tekdi Technologies**
-- 🚀 Passionate about building scalable web and mobile apps that solve real-world problems
-- 🎯 Currently working with **React.js, Node.js, Firebase, Spring Boot** and API integrations
-- 📚 Always learning modern tools, frameworks and best practices
-- 🤝 Collaborating with UI/UX and backend teams to deliver features
-- 🐞 Debugging and optimizing for performance and scalability
+```yaml
+name: Megharaj Dandgavhal
+role: Software Development Intern @ Tekdi Technologies
+education: B.Tech in Information Technology ('26)
+location: Pune, Maharashtra, India
+interests: [Full-Stack Web Dev, Scalable Microservices, API Integrations, Cloud Solutions]
+currently_building: [React.js, Next.js, Node.js, Spring Boot, Firebase]
+```
 
-## 🏆 Achievements
+- 💼 **Professional Experience:** Contributing to high-impact, real-world software solutions at **Tekdi Technologies**.
+- 🚀 **Passion:** Architecting scalable web and mobile applications with clean, maintainable code.
+- 🤝 **Collaboration:** Working closely with UI/UX designers, backend architects, and cross-functional teams to deliver production-ready features.
+- ⚡ **Problem Solving:** Passionate about debugging, troubleshooting, and tuning performance for high concurrency and resilience.
 
-| | |
+---
+
+## 🏆 Key Achievements & Milestones
+
+| Milestone | Description |
 |---|---|
-| 🥉 | **2× Hackathon Winner** – Innovision Avinya Hackathon (2024 & 2025) |
-| 🎖️ | **Smart India Hackathon** Finalist |
-| 📌 | Built Education-Path, Mess-Management System, E-commerce Platform, Disaster Response App, Reservation System and more |
+| 🥇 **2× Hackathon Winner** | Innovision Avinya Hackathon (Consecutive wins: 2024 & 2025) |
+| 🎖️ **Smart India Hackathon** | National Finalist (SIH) |
+| 🚀 **Featured Projects** | Built Education-Path, Mess-Management System, E-commerce, Disaster Response, and AI tooling |
 
-## 🛠️ Tech Stack
+---
 
-**Frontend**<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+## 🛠️ Tech Stack & Skills
 
-**Backend**<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,nodejs,express,nestjs,spring,py,mongodb,mysql,firebase,gcp,docker,git,github,postman,vscode" alt="Skills Banner" />
+</div>
 
-**Databases & Cloud**<br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
-**Tools & Deployment**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+<table>
+  <tr>
+    <td width="20%"><strong>🎨 Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=%23D04A37" alt="Expo" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>⚙️ Backend & APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+      <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>🗄️ Databases & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>🛠️ Tools & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white" alt="Render" />
+      <img src="https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B" alt="Vitest" />
+    </td>
+  </tr>
+</table>
 
-**Data / ML**<br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🤖 **[SkillGap-AI](https://github.com/Megharaj170804/SkillGap-AI)** | AI-driven skill assessment platform analyzing workforce competency and recommending custom learning roadmaps. | Python, AI/ML, FastAPI, React |
+| 🔔 **[Notification Microservice](https://github.com/Megharaj170804/notification-microservice)** | Resilient microservice designed for handling asynchronous multi-channel notifications and queue-backed delivery. | Node.js, Express, Microservices |
+| 📅 **[Appointment Booking System](https://github.com/Megharaj170804/nextjs-project-appointment)** | Modern end-to-end appointment scheduling application with responsive UI and calendar workflows. | Next.js, React, Tailwind CSS |
+| 📄 **[PDF to Word Converter](https://github.com/Megharaj170804/pdf-to-word)** | High-accuracy document converter preserving formatting and font fidelity. | Python, Document Processing |
+| 🌾 **[Mandi](https://github.com/Megharaj170804/Mandi)** | Agricultural trade marketplace connecting farmers directly with local distributors and buyers. | Full-Stack Web, REST APIs |
+
+---
+
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<img height="180" src="profile/stats.svg" alt="GitHub Stats" />
-<img height="180" src="profile/top-langs.svg" alt="Top Languages" />
+  <!-- GitHub Stats Card & Top Languages Card -->
+  <table border="0">
+    <tr>
+      <td>
+        <img height="185" src="https://github-readme-stats.vercel.app/api?username=Megharaj170804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Megharaj's GitHub Stats" />
+      </td>
+      <td>
+        <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megharaj170804&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-<img src="profile/streak.svg" alt="GitHub Streak" />
+  <!-- Streak Stats Card -->
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=Megharaj170804&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub Streak" />
+  </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Megharaj170804&theme=tokyonight" alt="Profile details" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Megharaj170804&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <!-- Summary Card -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Megharaj170804&theme=tokyonight" alt="Profile Summary Details" />
+  </p>
 
 </div>
+
+---
 
 ## 🏅 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Megharaj170804&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/Megharaj170804">
+  <img src="https://github-trophies.devomb.com/?username=Megharaj170804&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</a>
 
 </div>
+
+---
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Megharaj170804-181717?style=for-the-badge&logo=github)](https://github.com/Megharaj170804)
-[![Email](https://img.shields.io/badge/Email-megharaj.dandgavhal@tekditechnologies.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megharaj.dandgavhal@tekditechnologies.com)
+<p align="center">
+  <a href="https://linkedin.com/in/MegharajDandgavhal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Megharaj%20Dandgavhal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://meghportfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-meghportfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:megharaj.dandgavhal@tekditechnologies.com">
+    <img src="https://img.shields.io/badge/Email-tekditechnologies.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Megharaj170804">
+    <img src="https://img.shields.io/badge/GitHub-Megharaj170804-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-*⭐ From a ❤️ of open source — thanks for visiting!*
+⭐ *“Turning complex problems into clean, scalable code.”* ⭐
 
 </div>
